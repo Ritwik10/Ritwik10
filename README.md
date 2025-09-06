@@ -1,8 +1,18 @@
-- 👋 Hi, I’m @Ritwik10
-- 👀 I’m interested in FullStack Web Development
-- 🌱 I’m currently learning MERN Stack.
-- 💞️ I’m looking to collaborate on some Web Development Project which is build on MERN Stack.
-- 📫 You can reach me through GitHub. My id is "Ritwik10".
+Hey there 👋
+I’m Ritwik, a backend developer on a journey into the MERN stack 🌱
+
+🔧 Tech I use & enjoy
+⚡ Node.js for building scalable backends
+🗄️ MongoDB for managing data that grows with apps
+🐳 Docker (just enough to keep my projects afloat 😅)
+🎨 React — learning to bring full-stack ideas to life
+
+💡 What I’m working on
+Crafting APIs and diving deep into databases
+Leveling up in MERN, one commit at a time
+
+🌍 I enjoy side projects, and nerding out about clean architecture or cool new tech.
+Always happy to learn, share, and build awesome stuff 🚀
 
 <!---
 Ritwik10/Ritwik10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
